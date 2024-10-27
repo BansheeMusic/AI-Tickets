@@ -5,5 +5,5 @@ This is an integration with Livepeer AI. Banshee uses the image-to-image and ima
 
 1) Unique bar code
 2) API Key or Pass Key embeded
-3) Tickets are NFTs to be used for access to exclusive content.
+3) Tickets are NFTs to be used for access to exclusive content or performance
 
